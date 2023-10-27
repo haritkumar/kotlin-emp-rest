@@ -1,5 +1,5 @@
 # kotlin-emp-rest
-Rest api using spring boot and kotlin. Pls use attached postman collection to test the endpoints.
+Rest api using spring boot and kotlin. Pls use attached postman collection `kotlin-api-emp.postman_collection.json` to test the endpoints.
 
 ## H2 Memory Database:
 Once with the application running you can access:
