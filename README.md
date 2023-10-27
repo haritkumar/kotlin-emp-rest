@@ -7,7 +7,7 @@ Once with the application running you can access:
 `http://localhost:8080/h2-console`
 
 - user: `sa`
-- pass: `pasword`
+- pass: `password`
 
 ## Todo
 - Unit Test cases
