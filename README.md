@@ -4,7 +4,7 @@ Rest api using spring boot and kotlin. Pls use attached postman collection `kotl
 ## H2 Memory Database:
 Once with the application running you can access:
 
-`http://localhost:8080/h2-console`
+`http://localhost:8080/h2`
 
 - user: `sa`
 - pass: `password`
